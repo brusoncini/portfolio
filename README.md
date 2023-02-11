@@ -1,7 +1,5 @@
 ## Imagem de capa
 
-Adicione a imagem de capa com o tema do seu projeto:
-
 ![Front-end-portfolio](https://user-images.githubusercontent.com/120529944/218223385-0ac47bca-f785-4d00-a612-5540a33f3bc8.png)
   
 # Portfolio
