@@ -1,4 +1,4 @@
-# Porfolio
+# Portfolio
 
 Olá! Esse é meu primeiro projeto de portfolio, seja muito bem vindo.
 
