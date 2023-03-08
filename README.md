@@ -1,7 +1,3 @@
-## Imagem de capa
-
-![Front-end-portfolio](https://user-images.githubusercontent.com/120529944/218223385-0ac47bca-f785-4d00-a612-5540a33f3bc8.png)
-  
 # Portfolio
 
 Olá! Esse é meu primeiro projeto de portfolio, seja muito bem vindo.
@@ -22,3 +18,24 @@ Reuni nessa página alguns links para as redes sociais que mais utilizo. Adicion
 
 ### Bru Soncini
 ### LinkedIn: https://www.linkedin.com/in/brunasoncini/
+
+# Porfolio
+
+Olá! Esse é meu primeiro projeto de portfolio, seja muito bem vindo.
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Portfolio**
+| :label: Tecnologias | HTML5, CSS3
+| :rocket: URL         | portfolio-brusoncini.vercel.app
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![image](https://user-images.githubusercontent.com/120529944/218223562-cdf6947c-76b4-4995-ad86-1ee7cbf0e0d3.png)
+
+## Detalhes do projeto
+
+Nesse projeto, o objetivo é ter o primeiro contato com o HTML5 e CSS e entender como funcionam, como parte do curso de Iniciante em Programação da Alura.
+Criei uma página da web com essas ferramentas e nessa página, reuni links para as redes sociais que mais utilizo para falar sobre tecnologia. 
+Ela possui uma página separada para algumas informações sobre mim, que pode ser acessada cicando no menu do cabeçalho. Também possui efeitos de hover e inserção de imagens junto ao texto.
+Usei flexbox para organizar os elementos da página.
+
