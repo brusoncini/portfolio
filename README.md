@@ -9,7 +9,7 @@ Olá! Esse é meu primeiro projeto de portfolio, seja muito bem vindo.
 | :rocket: URL         | portfolio-brusoncini.vercel.app
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![image](https://user-images.githubusercontent.com/120529944/218223562-cdf6947c-76b4-4995-ad86-1ee7cbf0e0d3.png)
+![image](https://user-images.githubusercontent.com/120529944/218223562-cdf6947c-76b4-4995-ad86-1ee7cbf0e0d3.png#vitrinedev)
 
 ## Detalhes do projeto
 
